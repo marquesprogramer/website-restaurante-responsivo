@@ -1,0 +1,30 @@
+favIcon=> <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+
+salad1 -> Imagem de a href=httpspixabay.comptusersritae-19628utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1603608RitaEa por a href=httpspixabay.comptutm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1603608Pixabaya
+
+salad2-> Imagem de <a href="https://pixabay.com/pt/users/pixel2013-2364555/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2487759">S. Hermann &amp; F. Richter</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2487759">Pixabay</a>
+
+salad3 -> Imagem de <a href="https://pixabay.com/pt/users/ritae-19628/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2655915">RitaE</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2655915">Pixabay</a>
+
+salad4 -> Imagem de <a href="https://pixabay.com/pt/users/einladung_zum_essen-3625323/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1804452">Bernadette Wurzinger</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1804452">Pixabay</a>
+
+salad5 -> Imagem de <a href="https://pixabay.com/pt/users/ritae-19628/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3181610">RitaE</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3181610">Pixabay</a>
+
+salad6 -> Imagem de <a href="https://pixabay.com/pt/users/msqrd2-4735163/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2150548">Michael Moriarty</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2150548">Pixabay</a>
+
+salad7 -> Imagem de <a href="https://pixabay.com/pt/users/einladung_zum_essen-3625323/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1786327">Bernadette Wurzinger</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1786327">Pixabay</a>
+
+salad8 -> Imagem de <a href="https://pixabay.com/pt/users/kechn-680646/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=587669">kateřina budíková</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=587669">Pixabay</a>
+
+salad9 - Imagem de <a href="https://pixabay.com/pt/users/sponchia-443272/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2834549">Christine Sponchia</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2834549">Pixabay</a>
+
+insta - Foto de Ella Olsson no Pexels
+
+truck - Foto de Mikhail Nilov no Pexels
+
+chef1 -> Foto de Miquel Ferran Gomez Figueroa no Pexels
+
+chef2 -> <a href='https://br.freepik.com/fotos/alimento'>Alimento foto criado por freepik - br.freepik.com</a>
+
+vetor icon -> <a href='https://br.freepik.com/vetores/logotipo'>Logotipo vetor criado por rawpixel.com - br.freepik.com</a>
