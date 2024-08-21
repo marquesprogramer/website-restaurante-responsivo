@@ -1,7 +1,7 @@
 <h1>Restaurante Salad's - Site Responsivo</h1>
 <p>Este é um projeto de design e desenvolvimento de um site responsivo para o Restaurante Salad's ( marca fictícia ). O objetivo é proporcionar uma experiência agradável tanto em dispositivos móveis quanto em desktops. O site inclui as seguintes seções:</p>
 
-<strong>Funcionalidades</strong>
+<h2>Funcionalidades</h2>
 
 <h3>1. Home:</h3>
     <ul>
@@ -45,14 +45,14 @@
     </ul>
 
 <strong>Desenvolvimento</strong>
-<p>1. O projeto foi inicialmente desenvolvido com foco em dispositivos móveis, garantindo uma experiência fluida em telas menores.</p>
-<p>2. Em seguida, adaptamos o layout para desktops, mantendo a consistência visual e a usabilidade.</p>
+<p>O projeto foi inicialmente desenvolvido com foco em dispositivos móveis, garantindo uma experiência fluida em telas menores.</p>
+<p>Em seguida, adaptamos o layout para desktops, mantendo a consistência visual e a usabilidade.</p>
 
-<strong>Como Contribuir</strong>
+<h3>Como Contribuir</h3>
 <p>1. Faça um fork deste repositório.</p>
 <p>2. Crie uma branch para sua feature (git checkout -b minha-feature).</p>
 <p>3. Faça commit das suas alterações (git commit -m 'Adicionando nova funcionalidade').</p>
 <p>4. Envie para o seu fork (git push origin minha-feature).</p>
 <p>5. Abra um pull request.</p>
 
-<p>Fique à vontade para personalizar este<strong>README</strong> com informações específicas do seu projeto. Bom desenvolvimento! 🍽️👨‍🍳</p>
+<p>Fique à vontade para personalizar este <strong>README</strong> com informações específicas do seu projeto. <br>Bom desenvolvimento! 🍽️👨‍🍳</p>
