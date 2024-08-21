@@ -39,9 +39,9 @@
 
 <strong>Tecnologias Utilizadas</strong>
     <ul>
-        <li>HTML: Estruturação das páginas.<li>
-        <li>CSS: Estilização e responsividade.<li>
-        <li>JavaScript: Interações.<li>
+        <li>HTML: Estruturação das páginas.</li>
+        <li>CSS: Estilização e responsividade.</li>
+        <li>JavaScript: Interações.</li>
     </ul>
 
 <strong>Desenvolvimento</strong>
